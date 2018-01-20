@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px;
+}
+
+h2 {
+    color: brown;
+    padding: 10px;
+    padding-left: 50px;
+}
+
+input[type="submit"]:hover {
+    color: brown;
+}
+
+.link {
+    float: right;
+    padding: 35px;
+}
+
+li {
+    padding: 10px;
+}
